@@ -1,8 +1,8 @@
-# AI-Powered Item Management API
+# Item Management API
 
 ## Overview
 
-This document outlines the structure and usage of the AI-Powered Item Management API. This API provides functionalities for managing a collection of items, including retrieval of all items, and retrieval of a specific item by ID. It is designed to be integrated into a frontend application to provide dynamic data.
+This document outlines the structure and usage of the Item Management API. This API provides functionalities for managing a collection of items, including retrieval of all items, and retrieval of a specific item by ID. It is designed to be integrated into a frontend application to provide dynamic data.
 
 ## API Endpoints
 
